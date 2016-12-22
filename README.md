@@ -23,7 +23,7 @@ Visualize the findings through System G and Web application.
 
 
 ### How to Open Web GUI
-- Down load FrontEnd folder
+- Download FrontEnd folder
 - In terminal run
 ```
 pip install flask
