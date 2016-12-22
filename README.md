@@ -24,6 +24,9 @@ Visualize the findings through System G and Web application.
 
 ### How to Open Web GUI
 - Download FrontEnd folder
+- Download the result files in the following link into downloaded FrontEnd folder
+  https://www.dropbox.com/s/mfnl3015r5hyllv/Euclidean_Recommendation.json?dl=0
+  https://www.dropbox.com/s/cqoyh6odj056qfa/sorted_avgDict.txt?dl=0
 - In terminal run
 ```
 pip install flask
