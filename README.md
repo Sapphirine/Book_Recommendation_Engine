@@ -4,12 +4,13 @@
 Huashu Li(hl2919), Yunfan Zhang(yz2866), Zhuangfei Yang(zy2233)
 
 ### Project Description
-**Dataset Description**
+
+- **Dataset Description**
 
 We use Amazon Books Review data spanning May 1996 - July 2014 from http://jmcauley.ucsd.edu/data/amazon/ .
 It is 9 gigabytes containing 8,898,041 reviews (ratings, text, helpfulness votes etc.).
 
-**Project Overview**
+- **Project Overview**
 
 Build a recommendation system to recommend new books to customers. This includes recommending books to the existing users based on their tastes and recommending reading list to new users based on books’ popularity. 
 
@@ -32,5 +33,8 @@ unzip sorted_avgDict.txt.zip
 python app.py
 ```
 - Open http://127.0.0.1:5000/ in any of your browser(Chrome, FireFox, IE)
+
+### YouTube Presentation Link
+[Click Here]()
 
 
